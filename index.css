@@ -1,0 +1,22 @@
+.logo{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+ul
+{
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 200px;
+    gap: 200px;
+    
+}
+ul a{
+    color: black;
+    
+}
+
+

@@ -73,19 +73,32 @@ down-arrow{
     color: #ee1c47;
 }
 
-.navbar{
-   text-align:
+body{
+    width: 100%;
+    min-height: 10vh;
+    display: flex;
+justify-content: center;
+align-items: center;
+line-height: 1.5;
+
+}
+.container{
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+
+}
+.card{
+    flex: 1 1 21em;
+    margin: 10px 20px;
+    background: #fff;
+    box-shadow: beige;
+
 }
 
-#2h1 :hover{
-    
-}
-#2h1:hover{
-    background: #ee1c47;
-}
-.product carde1{
-    max-width: 12em;
-}
-.product carde1 img{
-    max-width: 100%;
-}
